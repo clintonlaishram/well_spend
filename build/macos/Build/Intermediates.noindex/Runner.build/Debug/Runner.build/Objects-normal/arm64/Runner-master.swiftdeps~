@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "a87327589ea8278940d8abdf6960a29c4cbfaab57d682855dfab862e835ee551"
+build_start_time: [1692633122, 372235000]
+build_end_time: [1692633122, 405978000]
+inputs:
+  "/Users/clinton/Documents/Project/wellSpend/well_spend/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1692633108, 541184816]
+  "/Users/clinton/Documents/Project/wellSpend/well_spend/macos/Runner/AppDelegate.swift": !private [1690997285, 280434909]
+  "/Users/clinton/Documents/Project/wellSpend/well_spend/macos/Runner/MainFlutterWindow.swift": !private [1690997285, 281597224]
